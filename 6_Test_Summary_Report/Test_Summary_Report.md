@@ -8,8 +8,8 @@ Testing was conducted on both the frontend (React.js) and backend APIs (Spring B
 ## 2. Test Scope
 The following areas were covered during testing:
 
-- Authentication & Authorization (Admin / Teacher roles)
-- Student & Teacher Management
+- Authentication & Authorization
+- User Management
 - Attendance Management
 - Results Management
 - API Validation & Error Handling
