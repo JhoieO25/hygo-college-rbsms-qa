@@ -1,0 +1,11 @@
+## UI Test Evidence
+
+This folder contains selected UI evidence captured during manual testing of the HyGo College system.
+
+The evidence supports reported defects and validation failures observed during core user workflows.
+
+## Included Evidence
+- Infinite loading spinner when saving attendance under offline network condition
+- Invalid score value displayed in UI after API submission
+
+Screenshots are timestamped and mapped to documented defects.
