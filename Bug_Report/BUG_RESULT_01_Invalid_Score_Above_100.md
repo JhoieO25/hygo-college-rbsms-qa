@@ -44,7 +44,7 @@ The Grades API allows submission and persistence of invalid score values greater
 4. Open the UI at /teacher/results and view the saved record.
 
 ## Expected Result
-API should reject the request with 400 Bad Request (or 422 Unprocessable Entity). Validation error message such as: "Score must be between 0 and 100."
+API should reject the request with 400 Bad Request. Validation error message such as: "Score must be between 0 and 100."
 and score shouldn't be saved.
 
 ## Actual Result
