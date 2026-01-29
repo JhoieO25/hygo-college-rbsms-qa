@@ -37,7 +37,7 @@ The Grades API allows submission and persistence of invalid score values greater
       "grade": "B"
     }
   ]
-}
+} ```
 
 3. Submit the request.
 4. Open the UI at /teacher/results and view the saved record.
